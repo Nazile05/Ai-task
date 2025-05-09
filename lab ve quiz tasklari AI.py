@@ -1,6 +1,6 @@
 # Sprint 3a
 #1) x dəyişəni verilmişdir. Əgər x > 0 olarsa "müsbət", x < 0 olarsa "mənfi", bərabərdirsə "sıfır" çap etsin.
-"""x = int(input("x: "))
+x = int(input("x: "))
 if x > 0:
     print("musbet")
 elif x < 0:
@@ -85,7 +85,7 @@ b = [1, 3, 5, 7, 9]
 for i in range(len(b)):
     if b[i] == 5:
         print(i)
-        break"""
+        break
 #sprint 3b
 #1) salam adlı funksiya yaradın ki, heç bir arqument almadan sadəcə "Salam, Dünya!" çap etsin.
 def salam():
